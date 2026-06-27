@@ -19,3 +19,6 @@ _Avoid_: 合成图、效果图、上身图
 **Shopper**:
 在电商商品详情页浏览 Try-on Image 的终端买家；不是 FitStudio 的操作用户。
 _Avoid_: 用户、消费者、C 端用户
+
+专注在服装行业
+
